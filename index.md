@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 说明
-      link: /markdown-examples
+      link: /docs/index/说明.md
     - theme: alt
       text: 介绍
-      link: /api-examples
+      link: /docs/index/介绍.md
 
 features:
   - title: 🍊 阅读

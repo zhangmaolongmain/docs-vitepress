@@ -9,19 +9,19 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         logo: "/images/logo.svg",
         nav: [
-            {text: 'Home', link: '/'},
-            {text: 'Examples', link: '/markdown-examples'},
+            // {text: 'Home', link: '/'},
+            // {text: 'Examples', link: '/markdown-examples'},
             {text: '开发环境', link: '/docs/env/README'}
         ],
 
         sidebar: [
-            {
-                text: 'Examples',
-                items: [
-                    {text: 'Markdown Examples', link: '/markdown-examples'},
-                    {text: 'Runtime API Examples', link: '/api-examples'}
-                ]
-            }
+            // {
+            //     text: 'Examples',
+            //     items: [
+            //         {text: 'Markdown Examples', link: '/markdown-examples'},
+            //         {text: 'Runtime API Examples', link: '/api-examples'}
+            //     ]
+            // }
         ],
 
         footer: {
