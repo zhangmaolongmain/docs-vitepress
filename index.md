@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "张茂龙的知识库"
+  text: "好记性不如烂笔头"
+  tagline: Keep Reading, Keep Writing, Keep Coding.
   actions:
     - theme: brand
       text: Markdown Examples
